@@ -1,7 +1,6 @@
 # BeeBox for Java
 
-This package is a development package for Java to use BeeBox on Java platforms. Please chceck [the download site](https://sourceforge.net/projects/cgvrdrvbebxjava/files/) on SourceForge.net to get the package and the samples.
-
+This package is a development package for Java to use BeeBox on Java platforms.
 ![beebox](doc/img/vr_beebox.jpg)
 
 ## Setup
