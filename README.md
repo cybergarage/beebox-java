@@ -1,6 +1,7 @@
 # BeeBox for Java
 
 This package is a development package for Java to use BeeBox on Java platforms.
+
 ![beebox](doc/img/vr_beebox.jpg)
 
 ## Setup
